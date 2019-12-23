@@ -1,6 +1,6 @@
 This repository contains Google Colab notebooks that reproduce the figures and results from the paper:
 
-Jase Gehring, Jong Hwee Park, Sisi Chen, Matthew Thomson and Lior Pachter, Highly multiplexed single-cell RNA-seq by DNA oligonucleotide tagging of cellular proteins
+Jase Gehring, Jong Hwee Park, Sisi Chen, Matthew Thomson and Lior Pachter, [Highly multiplexed single-cell RNA-seq by DNA oligonucleotide tagging of cellular proteins](https://www.nature.com/articles/s41587-019-0372-z), *Nature Biotechnology* (2019) doi:10.1038/s41587-019-0372-z 
 
 ### Notebooks
 
