@@ -4,6 +4,6 @@ Jase Gehring, Jong Hwee Park, Sisi Chen, Matthew Thomson and Lior Pachter, [High
 
 ### Notebooks
 
-* [Figures and results from the 96 sample multiplex experiment](https://colab.research.google.com/github/pachterlab/GPCTP_2019/blob/master/Colab%20Notebooks/96sampleMultiplex20191220.ipynb)
+* [Figures and results from the 96 sample multiplex experiment](https://colab.research.google.com/github/pachterlab/GPCTP_2019/blob/master/Colab%20Notebooks/96SampleMuliplex20191220.ipynb)
 * [Figures and results from the four sample multiplex experiment](https://colab.research.google.com/github/pachterlab/GPCTP_2019/blob/master/Colab%20Notebooks/4sampleMultiplex20191220.ipynb)
 * [Figures and results from the limits of multiplexing experiment](https://colab.research.google.com/github/pachterlab/GPCTP_2019/blob/master/Colab%20Notebooks/LimitsOfMultiplex20191220.ipynb)
